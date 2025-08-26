@@ -2,7 +2,9 @@
 This project applies bioinformatics algorithms (Greedy Motif Search & Randomized Motif Search) to find conserved DNA motifs in Mycobacterium tuberculosis genomes
 
 What does this mean?
+
 DNA motifs are short recurring patterns in the genome. They often act as:
+
 Regulatory switches that turn TB genes on or off
 
 Markers of drug resistance (e.g., mutations near resistance genes)
@@ -32,8 +34,11 @@ Consensus Sequence: GATGA
 Why is this useful in medicine?
 
 Helps researchers understand TB biology by finding hidden “genetic messages”
+
 May identify drug resistance signatures, guiding better treatment
+
 Could support diagnostic test development by targeting conserved motifs
+
 Contributes to precision medicine by linking genomic patterns with clinical outcomes.
 
 
