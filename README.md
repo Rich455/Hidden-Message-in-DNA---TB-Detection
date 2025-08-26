@@ -14,6 +14,7 @@ Targets for diagnostics or new drugs
 
 
 How it works:
+
 Input = DNA sequences from M. tuberculosis samples
 
 The algorithm searches for the most conserved short sequence (motif) across all samples
