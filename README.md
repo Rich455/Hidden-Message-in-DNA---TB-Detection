@@ -24,11 +24,17 @@ Output = A set of motifs that appear consistently in TB genomes
 Example output;-
 
 Best Motifs Found:
+
 Sequence 1: GATGA (position 10, score 0)
+
 Sequence 2: GATGA (position 10, score 0)
+
 Sequence 3: GATGA (position 10, score 0)
+
 Sequence 4: GATGA (position 10, score 0)
+
 Sequence 5: GATGA (position 10, score 0)
+
 Consensus Sequence: GATGA
 
 
