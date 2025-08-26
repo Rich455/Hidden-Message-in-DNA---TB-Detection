@@ -4,12 +4,18 @@ This project applies bioinformatics algorithms (Greedy Motif Search & Randomized
 What does this mean?
 DNA motifs are short recurring patterns in the genome. They often act as:
 Regulatory switches that turn TB genes on or off
+
 Markers of drug resistance (e.g., mutations near resistance genes)
+
 Targets for diagnostics or new drugs
 
-How it works
+
+
+How it works:
 Input = DNA sequences from M. tuberculosis samples
+
 The algorithm searches for the most conserved short sequence (motif) across all samples
+
 Output = A set of motifs that appear consistently in TB genomes
 
 Example output;-
