@@ -1,3 +1,14 @@
+
+
+Hi, I’m Richard 👋  
+M.D. | M.S. Computer Science (Bioinformatics & HPC)
+
+ Interests: Bioinformatics, Genomics, Causal Inference, Clinical Data  
+
+
+
+
+
 ## DNA Motif Detection in Mycobacterium tuberculosis
 This project applies bioinformatics algorithms (Greedy Motif Search & Randomized Motif Search) to find conserved DNA motifs in Mycobacterium tuberculosis genomes
 
