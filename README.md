@@ -1,12 +1,5 @@
 
 
-Hi, I’m Richard 👋  
-M.D. | M.S. Computer Science (Bioinformatics & HPC)
-
- Interests: Bioinformatics, Genomics, Causal Inference, Clinical Data  
-
-
-
 
 
 ## DNA Motif Detection in Mycobacterium tuberculosis
