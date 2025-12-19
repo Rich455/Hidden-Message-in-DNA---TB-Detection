@@ -25,6 +25,19 @@ This project applies bioinformatics algorithms (**Greedy Motif Search** & **Rand
 
 **Example Output:**
 
+### Best Motifs Found
+
+| Sequence # | Motif  |
+|------------|--------|
+| 1          | ATGAC  |
+| 2          | ATGAC  |
+| 3          | ATGAC  |
+| 4          | ATGAC  |
+| 5          | ATGAC  |
+
+**Consensus Sequence:** `ATGAC`
+
+
 
 ---
 
