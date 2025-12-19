@@ -14,7 +14,7 @@ This project applies bioinformatics algorithms (Greedy Motif Search & Randomized
 
 
 
-1.** What does this mean?**
+1.**What does this mean?**
 
 DNA motifs are short recurring patterns in the genome. They often act as:
 
