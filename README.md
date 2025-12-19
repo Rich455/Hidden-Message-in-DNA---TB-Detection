@@ -21,7 +21,7 @@ Targets for diagnostics or new drugs
 
 
 
-2.How it works:
+2.**How it works:**
 
 Input = DNA sequences from M. tuberculosis samples
 
@@ -48,7 +48,7 @@ Consensus Sequence: GATGA
 
 
 
-3.Why is this useful in medicine?
+3.**Why is this useful in medicine?**
 
 Helps researchers understand TB biology by finding hidden “genetic messages”
 
@@ -62,7 +62,7 @@ Contributes to precision medicine by linking genomic patterns with clinical outc
 
 
 
-4.Note
+4.**Note**
 
 This algorithm detects conserved DNA motifs in a set of DNA sequences.
 
