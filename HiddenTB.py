@@ -148,7 +148,7 @@ print("Consensus Resistance Motif:", consensus(motifs))
 ### Comparison between the drug sentitive and drug resistant TB genome.
 
 
-# drug sentitive is Mycobacterium bovis AF2122/97
+# drug sentitive is Mycobacterium tuberculosis H37Rv complete genome
 # drug resistant is Mycobacterium tuberculosis strain SCAID 320.0
 
 
@@ -172,7 +172,7 @@ def load_single_genome_safe(fasta_path):
 
 
 
-# drug sentitive is Mycobacterium bovis AF2122/97
+# drug sentitive is Mycobacterium tuberculosis H37Rv complete genome
 # drug resistant is Mycobacterium tuberculosis strain SCAID 320.0
 
 
@@ -295,6 +295,7 @@ print(DR_set - DS_set)
 
 print("\nMotifs unique to DS strains:")
 print(DS_set - DR_set)
+
 
 
 
