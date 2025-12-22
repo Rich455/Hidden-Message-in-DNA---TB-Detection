@@ -64,9 +64,6 @@ H37Rv is a globally used laboratory reference strain, while SCAID 320.0 is a cli
 
 ##  Results
 
-
-![Mutation Density Plot](D:\TB_PROJECT\Screenshot TB result.png)
-
 ### Genome Sizes
 
 - **Drug-sensitive genome (H37Rv):** 4,411,532 bp  
